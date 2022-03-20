@@ -40,7 +40,7 @@ Mozilla Public License 2.0
 
 # Contributors
 
--- [![GitHub Contributors Image](https://contrib.rocks/image?repo=/Social-Network-API)](https://github.com/GunnySensei/Social-Network-API)
+[![GitHub Contributors Image](https://contrib.rocks/image?repo=GunnySensei/Social-Network-API)](https://github.com/GunnySensei/Social-Network-API)
 
 # Tests
 
