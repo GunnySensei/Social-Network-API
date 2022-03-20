@@ -53,6 +53,7 @@ Mozilla Public License 2.0
 - If you have further questions, feel free to see my contact information below:
   -- [GitHub](https://github.com/GunnySensei)
   -- Email: gunnerwagoner@gmail.com
-  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GunnySensei&theme=blue-green)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GunnySensei&theme=blue-green)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=GunnySensei&show_icons=true)
