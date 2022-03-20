@@ -8,6 +8,9 @@
     ## Screenshots
     [Insomnia Testing](./assets/Insomnia%20-%20Testing%20%E2%80%93%20GET%20All%20users%20Routes.png)
 
+    ## Link to Example Video
+    [Google Drive Example Video](https://drive.google.com/file/d/10nd9XwO6pB08Z4UAlGm0MidLku-oW8JJ/view)
+
     ##Table of Contents
     - [Installation](#Installation)
     - [Usage](#Usage)
