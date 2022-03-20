@@ -1,49 +1,58 @@
-    [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
-    # Social-Network-API
+# Social-Network-API
 
-    ## Description of Project
-    - This is a demonstration of a Mongo Database, NoSQL, with routing by integrating the following documents: Users, Thoughts, Reactions, and Friends.
+## Description of Project
 
-    ## Screenshots
-    [Insomnia Testing](./assets/Insomnia%20-%20Testing%20%E2%80%93%20GET%20All%20users%20Routes.png)
+- This is a demonstration of a Mongo Database, NoSQL, with routing by integrating the following documents: Users, Thoughts, Reactions, and Friends.
 
-    ## Link to Example Video
-    [Google Drive Example Video](https://drive.google.com/file/d/10nd9XwO6pB08Z4UAlGm0MidLku-oW8JJ/view)
+## Screenshots
 
-    ##Table of Contents
-    - [Installation](#Installation)
-    - [Usage](#Usage)
-    - [License](#License)
-    - [Contributing](#Contributing)
-    - [Tests](#Tests)
-    - [Questions](#Questions)
+![Insomnia Testing](./assets/Insomnia%20-%20Testing%20%E2%80%93%20GET%20All%20users%20Routes.png)
 
-    # Installation
-    - How to install this application:
-    -- npm init && npm install
+## Link to Example Video
 
-    # Language Usage
-    - JavaScript
-    - MongoDB
-    - Express
+[Google Drive Example Video](https://drive.google.com/file/d/10nd9XwO6pB08Z4UAlGm0MidLku-oW8JJ/view)
 
+##Table of Contents
 
-    # License
-    Mozilla Public License 2.0
-    # Contributors
-    -- [![GitHub Contributors Image](https://contrib.rocks/image?repo=/Social-Network-API)](https://github.com/GunnySensei/Social-Network-API)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [License](#License)
+- [Contributing](#Contributing)
+- [Tests](#Tests)
+- [Questions](#Questions)
 
-    # Tests
-    - Tests are used: true
-    - How to test this application:
-    -- Insomnia
+# Installation
 
-    # Questions
-    - If you have further questions, feel free to see my contact information below:
-    -- [GitHub](https://github.com/GunnySensei)
-    -- Email: gunnerwagoner@gmail.com
-    ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GunnySensei&theme=blue-green)
+- How to install this application:
+  -- npm init && npm install
 
+# Language Usage
 
-    ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=GunnySensei&show_icons=true)
+- JavaScript
+- MongoDB
+- Express
+
+# License
+
+Mozilla Public License 2.0
+
+# Contributors
+
+-- [![GitHub Contributors Image](https://contrib.rocks/image?repo=/Social-Network-API)](https://github.com/GunnySensei/Social-Network-API)
+
+# Tests
+
+- Tests are used: true
+- How to test this application:
+  -- Insomnia
+
+# Questions
+
+- If you have further questions, feel free to see my contact information below:
+  -- [GitHub](https://github.com/GunnySensei)
+  -- Email: gunnerwagoner@gmail.com
+  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GunnySensei&theme=blue-green)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=GunnySensei&show_icons=true)
